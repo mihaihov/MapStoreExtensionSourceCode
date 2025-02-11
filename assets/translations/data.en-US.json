@@ -1,0 +1,18 @@
+{
+  "locale": "en-US",
+  "messages": {
+    "extension": {
+      "saveToLocalStorage": "Save to local storage",
+      "title": "Save current map settings",
+      "loadSessionFromFile": "Load session from file",
+      "enterSessionName": "Enter session name",
+      "helpText": "Save session to local storage",
+      "closeDialogue": "Close dialogue",
+      "exportMultipleSessions": "Export multiple sessions",
+      "invalidJsonError" : "Invalid JSON file",
+      "selectValidJsonError": "Please select a valid JSON file.",
+      "all": "All",
+      "info": "Allows saving and retrieving sessions to and from local storage of the browser. Please be aware that local storage has a limit of maximum 9.5 MB."
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "plugins": [
+    {
+      "name": "SaveSessionToLocalStorageExtension",
+      "dependencies": [
+        "Toolbar"
+      ]
+    }
+  ]
+}

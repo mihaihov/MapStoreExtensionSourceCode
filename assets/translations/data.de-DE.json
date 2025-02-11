@@ -1,0 +1,18 @@
+{
+  "locale": "de-DE",
+  "messages": {
+    "extension": {
+      "saveToLocalStorage": "In den lokalen Speicher speichern",
+      "title": "Aktuelle Karteneinstellungen speichern",
+      "loadSessionFromFile": "Sitzung aus Datei laden",
+      "enterSessionName": "Sitzungsnamen eingeben",
+      "helpText": "Sitzung im lokalen Speicher speichern",
+      "closeDialogue": "Dialog schließen",
+      "exportMultipleSessions": "Mehrere Sitzungen exportieren",
+      "invalidJsonError": "Ungültige JSON-Datei",
+      "selectValidJsonError": "Bitte wählen Sie eine gültige JSON-Datei aus.",
+      "all": "Alle",
+      "info": "Ermöglicht das Speichern und Abrufen von Sitzungen im und vom lokalen Speicher des Browsers. Bitte beachten Sie, dass der lokale Speicher auf maximal 9,5 MB begrenzt ist."
+    }
+  }
+}

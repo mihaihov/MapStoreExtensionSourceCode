@@ -1,0 +1,18 @@
+{
+  "locale": "it-IT",
+  "messages": {
+    "extension": {
+      "saveToLocalStorage": "Salva nella memoria locale",
+      "title": "Salva le impostazioni attuali della mappa",
+      "loadSessionFromFile": "Carica sessione da file",
+      "enterSessionName": "Inserisci il nome della sessione",
+      "helpText": "Salva la sessione nella memoria locale",
+      "closeDialogue": "Chiudi finestra di dialogo",
+      "exportMultipleSessions": "Esporta più sessioni",
+      "invalidJsonError": "File JSON non valido",
+      "selectValidJsonError": "Seleziona un file JSON valido.",
+      "all": "Tutto",
+      "info": "Consente di salvare e recuperare sessioni da e verso l'archiviazione locale del browser. Si prega di notare che l'archiviazione locale ha un limite massimo di 9,5 MB."
+    }
+  }
+}

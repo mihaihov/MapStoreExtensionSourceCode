@@ -1,0 +1,18 @@
+{
+  "locale": "fr-FR",
+  "messages": {
+    "extension": {
+      "saveToLocalStorage": "Enregistrer dans le stockage local",
+      "title": "Enregistrer les paramètres actuels de la carte",
+      "loadSessionFromFile": "Charger la session depuis un fichier",
+      "enterSessionName": "Saisir le nom de la session",
+      "helpText": "Enregistrer la session dans le stockage local",
+      "closeDialogue": "Fermer la boîte de dialogue",
+      "exportMultipleSessions": "Exporter plusieurs sessions",
+      "invalidJsonError": "Fichier JSON invalide",
+      "selectValidJsonError": "Veuillez sélectionner un fichier JSON valide.",
+      "all": "Tout",
+      "info": "Permet d'enregistrer et de récupérer des sessions vers et depuis le stockage local du navigateur. Veuillez noter que le stockage local a une limite maximale de 9,5 Mo."
+    }
+  }
+}

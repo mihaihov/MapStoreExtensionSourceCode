@@ -1,0 +1,18 @@
+{
+  "locale": "es-ES",
+  "messages": {
+    "extension": {
+      "saveToLocalStorage": "Guardar en el almacenamiento local",
+      "title": "Guardar configuración actual del mapa",
+      "loadSessionFromFile": "Cargar sesión desde archivo",
+      "enterSessionName": "Ingrese el nombre de la sesión",
+      "helpText": "Guardar sesión en el almacenamiento local",
+      "closeDialogue": "Cerrar diálogo",
+      "exportMultipleSessions": "Exportar múltiples sesiones",
+      "invalidJsonError": "Archivo JSON inválido",
+      "selectValidJsonError": "Por favor, seleccione un archivo JSON válido.",
+      "all": "Todo",
+      "info": "Permite guardar y recuperar sesiones desde y hacia el almacenamiento local del navegador. Tenga en cuenta que el almacenamiento local tiene un límite máximo de 9,5 MB."
+    }
+  }
+}
