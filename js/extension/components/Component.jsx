@@ -103,7 +103,7 @@ const SaveSessionToLocalStorageExtension = ({ currentSession, dialogueState,  ch
 
     const saveSessionToLocalStorage = (e) => {
         e.preventDefault();
-        const dataToSave = { ...currentSession, sessionName: getUniqueSessionName(sessionName, localStorageSessions.map(session => session.sessionName)) };
+        const dataToSave = { ...currentSession, sessionName: getUniqueSessionName(sessionName, localStorageSessions ? localStorageSessions.map(session => session.sessionName) : []) };
         localStorageSessions?.length > 0 ? setLocalStorageSession(prev => [dataToSave,...prev]) : setLocalStorageSession([dataToSave]);
     }
 
